@@ -1,4 +1,4 @@
 # recommendationservice
 ## 📘 API Documentation
 
-- [API Documentation](./recommenadtion-api-doc)
+- [API Documentation](./recommendation-api-doc (1).md)
