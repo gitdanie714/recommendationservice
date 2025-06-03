@@ -10,7 +10,7 @@ import java.util.List;
 @RestController
 @RequestMapping("api/v1/bookrecommendations")
 @CrossOrigin(
-        origins = "http://localhost:5173",
+        origins = "https://book-store-v2.vercel.app",
         methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE}
 )
 public class RecommendationController {
